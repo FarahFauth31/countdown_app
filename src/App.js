@@ -13,9 +13,10 @@ function App() {
     const interval = setInterval(() => {
       const now = new Date();
       const diff = birthday - now;
+      const msInDay = 24*60*60*1000
 
       if (diff <= 0) {
-        if (diff > -(24*60*60*1000)) { //milliseconds in a day
+        if (diff > -(msInDay)) {
           setTimeLeft({message: 'Happy Birthday my love!'});
         }
         else {
