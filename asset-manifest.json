@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/countdown_app/static/css/main.2375f735.css",
+    "main.js": "/countdown_app/static/js/main.345c3b90.js",
+    "static/js/488.e42680f4.chunk.js": "/countdown_app/static/js/488.e42680f4.chunk.js",
+    "static/media/stage8.jpg": "/countdown_app/static/media/stage8.597901b51250cc762819.jpg",
+    "static/media/stage7.jpg": "/countdown_app/static/media/stage7.06b6dd8ff1a08c48e5e6.jpg",
+    "static/media/stage6.jpg": "/countdown_app/static/media/stage6.ad8a1246060e842fc3f3.jpg",
+    "static/media/stage5.jpg": "/countdown_app/static/media/stage5.8b486984897cf43607de.jpg",
+    "static/media/stage4.jpg": "/countdown_app/static/media/stage4.65ef16e0607d14d041f4.jpg",
+    "static/media/stage3.jpg": "/countdown_app/static/media/stage3.9dd3481bb4b83a9ae67c.jpg",
+    "static/media/stage2.jpg": "/countdown_app/static/media/stage2.5cfc59b5cbde2fbfe89e.jpg",
+    "static/media/stage1.jpg": "/countdown_app/static/media/stage1.2dab02a314a8623e0e0b.jpg",
+    "index.html": "/countdown_app/index.html",
+    "main.2375f735.css.map": "/countdown_app/static/css/main.2375f735.css.map",
+    "main.345c3b90.js.map": "/countdown_app/static/js/main.345c3b90.js.map",
+    "488.e42680f4.chunk.js.map": "/countdown_app/static/js/488.e42680f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2375f735.css",
+    "static/js/main.345c3b90.js"
+  ]
+}
